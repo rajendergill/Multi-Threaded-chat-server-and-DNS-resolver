@@ -133,15 +133,6 @@ flowchart TD
 
 ---
 
-## Contribution of Each Member
-
-*   **Single Member Project:**
-    
-    *   100% contribution by the author.
-    
-    *   Tanishq Maheshwari(221128):     50%
-    *   Apoorv Tandon(220192):          50% 
-      
 
 ---
 
@@ -167,3 +158,4 @@ I hereby declare that we did not indulge in plagiarism and that this assignment 
     *   The assignment provided an excellent opportunity to delve into DNS protocols and network programming.
 *   **General Comments:**
     *   The challenges faced during the project enhanced my debugging skills and deepened my understanding of the DNS resolution process.
+
